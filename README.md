@@ -1,7 +1,10 @@
-pandas-exercises
-Pandas Exercises Homework of Miuul Data Science & Machine Learning Bootcamp
-TASKS
+# pandas-exercises
 
+## Pandas Exercises Homework of Miuul Data Science & Machine Learning Bootcamp
+
+### TASKS
+
+```python
 ##################################################
 # Pandas Alıştırmalar
 # Pandas Exercises
@@ -146,3 +149,5 @@ TASKS
 # Görev 23: total_bill_tip_sum değişkenine göre büyükten küçüğe sıralayınız ve ilk 30 kişiyi yeni bir dataframe'e atayınız.
 # Task 23:  Sort the total_bill_tip_sum variable from largest to smallest and assign the first 30 people to a new dataframe.
 #########################################
+
+```
